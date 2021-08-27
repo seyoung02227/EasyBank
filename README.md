@@ -1,4 +1,4 @@
 # EasyBank
-Creating a landing page for Easybank - a gitial banking company. 
+Creating a landing page for Easybank - a digital banking company. 
 
-HTML&CSS Challenge from Frontend Mentor
+Challenge from Frontend Mentor
